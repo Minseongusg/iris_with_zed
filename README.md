@@ -1,2 +1,2 @@
 # iris_with_zed
-attach iris drone with zed camera
+attach zed camera to iris drone
